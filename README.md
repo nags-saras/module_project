@@ -1,4 +1,4 @@
-#Understanding GitHub
+##Understanding GitHub
 
 Create the util.py script locally on your system using any text/code editor.
 
